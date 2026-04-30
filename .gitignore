@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+*.egg-info/
+
+# Airflow
+airflow/logs/
+airflow/airflow.db
+airflow/webserver_config.py
+
+# Spark/Delta Lake
+delta_lake/checkpoints/
+*.log
+logs/
+
+# System
+.DS_Store
+.idea/
+*.swp
