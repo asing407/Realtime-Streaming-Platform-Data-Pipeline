@@ -7,12 +7,12 @@ Production-grade streaming data pipeline processing 6,500+ e-commerce events wit
 ![Spark](https://img.shields.io/badge/Apache%20Spark-3.4.1-orange)
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-2.7.3-red)
 
-## 🎯 Project Overview
+## Project Overview
 
 End-to-end streaming analytics platform demonstrating production-grade data engineering with automated orchestration and real-time visualizations.
 
-## Screenshots
-## 📸 Project Screenshots
+
+## Project Screenshots
 
 ### Airflow Orchestration
 
@@ -83,7 +83,7 @@ End-to-end streaming analytics platform demonstrating production-grade data engi
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology | Purpose |
 |-------|-----------|---------|
@@ -97,7 +97,7 @@ End-to-end streaming analytics platform demonstrating production-grade data engi
 
 ---
 
-## 🎯 Key Features
+## Key Features
 
 ### **Real-Time Stream Processing**
 - Kafka topics with partitioning for parallel processing
@@ -120,7 +120,7 @@ End-to-end streaming analytics platform demonstrating production-grade data engi
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 
 ### **Conversion Funnel**
 Tracks user journey from page view to purchase with drop-off analysis
@@ -140,7 +140,7 @@ Top 10 products ranked by views, cart adds, and purchases
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 ```bash
@@ -211,19 +211,6 @@ streamlit run streamlit_app/dashboard.py
 | **Conversion Rate** | 6.9% |
 | **Data Quality** | 99.9% |
 
----
-
-## 🎓 Technical Highlights
-
-- **ACID Transactions**: Delta Lake ensures data consistency
-- **Exactly-Once Semantics**: Spark checkpointing prevents duplicates
-- **Automated Quality Checks**: Airflow validates data freshness
-- **Fault Tolerance**: Retry logic and error handling
-- **Incremental Processing**: Only processes new data
-- **Schema Evolution**: Delta Lake supports schema changes
-- **Time Travel**: Query historical data versions
-
----
 
 ## 🔮 Future Enhancements
 
