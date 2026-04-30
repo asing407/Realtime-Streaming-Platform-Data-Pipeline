@@ -12,29 +12,57 @@ Production-grade streaming data pipeline processing 6,500+ e-commerce events wit
 End-to-end streaming analytics platform demonstrating production-grade data engineering with automated orchestration and real-time visualizations.
 
 ## Screenshots
+## 📸 Project Screenshots
+
 ### Airflow Orchestration
-**DAG Overview - All 3 Production DAGs Running**
-![Airflow DAGs] (/Users/anshumaansingh/Desktop/ecommerce-streaming-platform/docs/screenshots/Screenshot 2026-04-30 at 12.59.29.png)
 
-**DAG Execution History - Refresh Serving Layer**
-![DAG Details](/Users/anshumaansingh/Desktop/ecommerce-streaming-platform/docs/screenshots/Screenshot 2026-04-30 at 12.59.52.png)
+<table>
+  <tr>
+    <td width="50%">
+      <img src="docs/screenshots/Screenshot 2026-04-30 at 12.59.29.png" alt="Airflow DAGs" />
+      <p align="center"><b>All 3 Production DAGs Running</b></p>
+    </td>
+    <td width="50%">
+      <img src="docs/screenshots/Screenshot 2026-04-30 at 12.59.52.png" alt="DAG Details" />
+      <p align="center"><b>Refresh DAG - 7 Successful Runs</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="docs/screenshots/Screenshot 2026-04-30 at 13.00.06.png" alt="Task Graph" />
+      <p align="center"><b>Task Dependencies Pipeline</b></p>
+    </td>
+    <td width="50%">
+      <img src="docs/screenshots/Screenshot 2026-04-30 at 12.51.44.png" alt="Dashboard Main" />
+      <p align="center"><b>Real-Time Dashboard - 6.9% Conversion</b></p>
+    </td>
+  </tr>
+</table>
 
-**Task Graph - Pipeline Dependencies**
-![Task Graph](/Users/anshumaansingh/Desktop/ecommerce-streaming-platform/docs/screenshots/Screenshot 2026-04-30 at 13.00.06.png)
+### Analytics Dashboard
 
-
-### Streamlit Dashboard
-**Real-Time Analytics Dashboard**
-![Dashboard](/Users/anshumaansingh/Desktop/ecommerce-streaming-platform/docs/screenshots/Screenshot 2026-04-30 at 12.51.44.png)
-
-**Conversion Funnel Visualization**
-![Funnel](/Users/anshumaansingh/Desktop/ecommerce-streaming-platform/docs/screenshots/Screenshot 2026-04-30 at 12.51.59.png)
-
-![Top trending Products](/Users/anshumaansingh/Desktop/ecommerce-streaming-platform/docs/screenshots/Screenshot 2026-04-30 at 12.52.10.png)
-
-**Revenue Analytics**
-![Revenue](/Users/anshumaansingh/Desktop/ecommerce-streaming-platform/docs/screenshots/Screenshot 2026-04-30 at 12.52.29.png)
-![Realtime Alerts & Monitoring](/Users/anshumaansingh/Desktop/ecommerce-streaming-platform/docs/screenshots/Screenshot 2026-04-30 at 12.52.40.png)
+<table>
+  <tr>
+    <td width="50%">
+      <img src="docs/screenshots/Screenshot 2026-04-30 at 12.51.59.png" alt="Funnel" />
+      <p align="center"><b>Conversion Funnel Visualization</b></p>
+    </td>
+    <td width="50%">
+      <img src="docs/screenshots/Screenshot 2026-04-30 at 12.52.10.png" alt="Trending Products" />
+      <p align="center"><b>Top Trending Products</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="docs/screenshots/Screenshot 2026-04-30 at 12.52.29.png" alt="Revenue" />
+      <p align="center"><b>Revenue Analytics</b></p>
+    </td>
+    <td width="50%">
+      <img src="docs/screenshots/Screenshot 2026-04-30 at 12.52.40.png" alt="Alerts" />
+      <p align="center"><b>Live Alerts & System Health</b></p>
+    </td>
+  </tr>
+</table>
 
 **Key Metrics:**
 - 📊 6,549 events processed
