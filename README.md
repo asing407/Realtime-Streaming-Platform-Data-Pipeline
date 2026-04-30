@@ -11,6 +11,31 @@ Production-grade streaming data pipeline processing 6,500+ e-commerce events wit
 
 End-to-end streaming analytics platform demonstrating production-grade data engineering with automated orchestration and real-time visualizations.
 
+## Screenshots
+### Airflow Orchestration
+**DAG Overview - All 3 Production DAGs Running**
+![Airflow DAGs] (/Users/anshumaansingh/Desktop/ecommerce-streaming-platform/docs/screenshots/Screenshot 2026-04-30 at 12.59.29.png)
+
+**DAG Execution History - Refresh Serving Layer**
+![DAG Details](/Users/anshumaansingh/Desktop/ecommerce-streaming-platform/docs/screenshots/Screenshot 2026-04-30 at 12.59.52.png)
+
+**Task Graph - Pipeline Dependencies**
+![Task Graph](/Users/anshumaansingh/Desktop/ecommerce-streaming-platform/docs/screenshots/Screenshot 2026-04-30 at 13.00.06.png)
+
+
+### Streamlit Dashboard
+**Real-Time Analytics Dashboard**
+![Dashboard](/Users/anshumaansingh/Desktop/ecommerce-streaming-platform/docs/screenshots/Screenshot 2026-04-30 at 12.51.44.png)
+
+**Conversion Funnel Visualization**
+![Funnel](/Users/anshumaansingh/Desktop/ecommerce-streaming-platform/docs/screenshots/Screenshot 2026-04-30 at 12.51.59.png)
+
+![Top trending Products](/Users/anshumaansingh/Desktop/ecommerce-streaming-platform/docs/screenshots/Screenshot 2026-04-30 at 12.52.10.png)
+
+**Revenue Analytics**
+![Revenue](/Users/anshumaansingh/Desktop/ecommerce-streaming-platform/docs/screenshots/Screenshot 2026-04-30 at 12.52.29.png)
+![Realtime Alerts & Monitoring](/Users/anshumaansingh/Desktop/ecommerce-streaming-platform/docs/screenshots/Screenshot 2026-04-30 at 12.52.40.png)
+
 **Key Metrics:**
 - 📊 6,549 events processed
 - 💰 £500,727 revenue tracked
