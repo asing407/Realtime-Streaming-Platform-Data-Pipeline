@@ -32,10 +32,6 @@ End-to-end streaming analytics platform demonstrating production-grade data engi
       <img src="docs/screenshots/Screenshot 2026-04-30 at 13.00.06.png" alt="Task Graph" />
       <p align="center"><b>Task Dependencies Pipeline</b></p>
     </td>
-    <td width="50%">
-      <img src="docs/screenshots/Screenshot 2026-04-30 at 12.51.44.png" alt="Dashboard Main" />
-      <p align="center"><b>Real-Time Dashboard - 6.9% Conversion</b></p>
-    </td>
   </tr>
 </table>
 
@@ -43,6 +39,10 @@ End-to-end streaming analytics platform demonstrating production-grade data engi
 
 <table>
   <tr>
+    <td width="50%">
+      <img src="docs/screenshots/Screenshot 2026-04-30 at 12.51.44.png" alt="Dashboard Main" />
+      <p align="center"><b>Real-Time Dashboard - 6.9% Conversion</b></p>
+    </td>
     <td width="50%">
       <img src="docs/screenshots/Screenshot 2026-04-30 at 12.51.59.png" alt="Funnel" />
       <p align="center"><b>Conversion Funnel Visualization</b></p>
