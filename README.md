@@ -1,6 +1,6 @@
 # Real-Time E-Commerce Analytics Platform
 
-Production-grade streaming data pipeline processing 6,500+ e-commerce events with sub-minute latency using Apache Kafka, Spark Streaming, Delta Lake, and Apache Airflow.
+Production-grade streaming data pipeline processing 17,000+ e-commerce events with sub-minute latency using Apache Kafka, Spark Streaming, Delta Lake, and Apache Airflow.
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-4.2.0-black)
